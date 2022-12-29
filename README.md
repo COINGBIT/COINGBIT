@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> COINGBIT 
-    USD$78000000.0
+    USD$ 78.000.000.000
     0x18a0C976040e8FD9E529b8B363150b201606396e
+    gi123789.bc.id 
     
 
